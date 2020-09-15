@@ -1,0 +1,21 @@
+{
+	"details":{
+		"name":"APSSDC",
+		"age":5,
+		"courses":["wed design using ReactJS,ppytho"]
+	},
+	"students":[
+		{
+			"name":"m.pavithra",
+			"phone":8989898989,
+			"email":"pavi@gmail.com",
+			"address":"kothapate"
+		},
+		{
+			"name":"m.vijay",
+			"phone":8989898989,
+			"email":"vijay@gmail.com",
+			"address":"kothapate"
+		}
+	]
+}

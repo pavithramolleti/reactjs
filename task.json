@@ -1,0 +1,21 @@
+{
+    "details":[
+    {
+     "card":{
+        "name":"pavithra",
+        "email":"pavithramolleti@gmail.com",
+        "mobile":1234567890,
+        "des":"student"
+        }
+    },
+    {
+        "card":{
+            "name":"vijay",
+            "email":"vijay@gmail.com",
+            "mobile":1234567809,
+         "des":"student"
+        }
+    }
+  ]
+}
+    
